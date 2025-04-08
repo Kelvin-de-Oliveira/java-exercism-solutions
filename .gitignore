@@ -1,0 +1,25 @@
+# ===========================
+# Java (Gradle + IntelliJ)
+# ===========================
+
+# Pasta de build (gerada pelo Gradle)
+**/build/
+**/.gradle/
+
+# Arquivos de configuração da IntelliJ
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Arquivos de cache do IntelliJ
+out/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs ou arquivos temporários
+*.log
+*.tmp
+*.bak
