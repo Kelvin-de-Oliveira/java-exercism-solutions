@@ -20,6 +20,7 @@ public class JedliksToyCar {
         if(batteryPercent > 0){
             distanceDriven += 20;
             batteryPercent -= 1;
+            
         }
     }
 }
