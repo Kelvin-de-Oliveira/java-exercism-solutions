@@ -58,8 +58,9 @@ Lista de exercícios resolvidos até agora:
 - [x] Jedliks Toy Car
 - [x] Karls Language
 - [x] Log Levels
-- [ ] Need for Speed
-- [ ] Squeaky Clean
+- [x] Need for Speed
+- [x] Squeaky Clean
+- [ ]Remote Control Competition
 - [ ] (Irei adicionando aqui  novos exercicios, conforme eu for resolvendo)
 
 ---
