@@ -60,7 +60,7 @@ Lista de exercícios resolvidos até agora:
 - [x] Log Levels
 - [x] Need for Speed
 - [x] Squeaky Clean
-- [ ] Remote Control Competition
+- [x] Remote Control Competition
 - [ ] (Irei adicionando aqui  novos exercicios, conforme eu for resolvendo)
 
 ---
