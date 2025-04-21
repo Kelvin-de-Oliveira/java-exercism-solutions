@@ -61,6 +61,7 @@ Lista de exercícios resolvidos até agora:
 - [x] Need for Speed
 - [x] Squeaky Clean
 - [x] Remote Control Competition
+- [x] Salary Calculator 
 - [ ] (Irei adicionando aqui  novos exercicios, conforme eu for resolvendo)
 
 ---
