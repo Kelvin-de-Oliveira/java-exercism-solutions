@@ -62,6 +62,8 @@ List of solved exercises so far:
 - [x] Remote Control Competition
 - [x] Salary Calculator
 - [x] Football Match Reports
+- [x] Wizards and Warriors
+- [x] Logs Logs Logs
 - [ ] (I will add new exercises here as I solve them)
 
 ---
