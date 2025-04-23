@@ -64,6 +64,7 @@ List of solved exercises so far:
 - [x] Football Match Reports
 - [x] Wizards and Warriors
 - [x] Logs Logs Logs
+- [x] Wizards and Warriors 2
 - [ ] (I will add new exercises here as I solve them)
 
 ---
