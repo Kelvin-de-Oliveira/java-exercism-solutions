@@ -61,6 +61,7 @@ List of solved exercises so far:
 - [x] Squeaky Clean
 - [x] Remote Control Competition
 - [x] Salary Calculator
+- [x] Football Match Reports
 - [ ] (I will add new exercises here as I solve them)
 
 ---
