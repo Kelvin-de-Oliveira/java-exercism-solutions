@@ -67,7 +67,7 @@ List of solved exercises so far:
 - [x] Wizards and Warriors 2
 - [x] Booking Up For Beauty
 - [x] Calculator Conundrum
-- [x] [international Calling Connoisseur
+- [x] International Calling Connoisseur
 - [ ] (I will add new exercises here as I solve them)
 
 ---
