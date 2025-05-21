@@ -68,6 +68,9 @@ List of solved exercises so far:
 - [x] Booking Up For Beauty
 - [x] Calculator Conundrum
 - [x] International Calling Connoisseur
+- [x] Tim From Marketing
+- [x] Captains Log
+- [x] Secrets
 - [ ] (I will add new exercises here as I solve them)
 
 ---
