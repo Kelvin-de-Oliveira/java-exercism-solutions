@@ -71,6 +71,7 @@ List of solved exercises so far:
 - [x] Tim From Marketing
 - [x] Captains Log
 - [x] Secrets
+- [x] Gotta Snatch Em All
 - [ ] (I will add new exercises here as I solve them)
 
 ---
