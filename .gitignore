@@ -1,10 +1,16 @@
 # ===========================
 # Java (Gradle + IntelliJ)
 # ===========================
-
+# Ignore arquivos compilados
+*.class
+/bin/
+/build/
 # Pasta de build (gerada pelo Gradle)
 **/build/
 **/.gradle/
+
+# Ignora arquivos locais do Exercism
+.exercism/
 
 # Arquivos de configuração da IntelliJ
 *.iml
