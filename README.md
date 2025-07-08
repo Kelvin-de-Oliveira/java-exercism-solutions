@@ -72,6 +72,8 @@ List of solved exercises so far:
 - [x] Captains Log
 - [x] Secrets
 - [x] Gotta Snatch Em All
+- [x] Reverse String
+- [x] Two Fer
 - [ ] (I will add new exercises here as I solve them)
 
 ---
