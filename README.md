@@ -74,6 +74,7 @@ List of solved exercises so far:
 - [x] Gotta Snatch Em All
 - [x] Reverse String
 - [x] Two Fer
+- [x] Darts
 - [ ] (I will add new exercises here as I solve them)
 
 ---
